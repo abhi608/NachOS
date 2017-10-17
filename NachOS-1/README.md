@@ -1,2 +1,2 @@
-# cs330_ass1
-first Assignment of cs330. Any type of copying is discouraged.
+# NachoS-1
+first part of NachOS implementation. Any type of copying is discouraged.
